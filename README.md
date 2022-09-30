@@ -102,3 +102,23 @@ The figure below shows a snapshot of ETL process being conducted through termina
 If you have any doubts, queries or, suggestions then, please connect with me in any of the following platforms:
 
 [![Linkedin Badge][linkedinbadge]][linkedin] 
+[![Gmail Badge][gmailbadge]][gmail]
+
+
+## License
+
+<a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/' target="_blank">
+    <img src="https://i.ibb.co/mvmWGkm/by-nc-sa.png" alt="by-nc-sa" border="0" width="88" height="31">
+</a>
+
+This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+
+
+
+<!--Profile Link-->
+[linkedin]: https://www.linkedin.com/in/waqargul
+[gmail]: mailto:waqargul6@gmail.com
+
+<!--Logo Link -->
+[linkedinbadge]: https://img.shields.io/badge/-uditkumarchatterjee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
+[gmailbadge]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
