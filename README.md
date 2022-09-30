@@ -67,13 +67,19 @@ The repository directory structure is as follows:
 ```
 
 ## Tools 
+
 To build this project, following tools and packages were used:
 
 - Python
-- Python packages mentioned in [requirements.txt][requirements].
+- Python packages mentioned in [requirements.txt](https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/requirements.txt)].
 - PyCharm
 - Github
 - Jupyter Notebook
 - Tableau Desktop
 
 ## Architecture
+
+The architecture of this project is straightforward which can be understood by the following diagram.
+
+[image](https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/src/architecture.gif)
+
