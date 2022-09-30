@@ -93,5 +93,12 @@ According to the diagram we first create a python script which performs ETL for 
 The figure below shows a snapshot of ETL process being conducted through terminal.
 
 <p align='center'>
-  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/etl%20gif.gif' width=500 height=400>
+  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/etl%20gif.gif' width=400 height=300>
 </p>  
+
+
+## Support
+
+If you have any doubts, queries or, suggestions then, please connect with me in any of the following platforms:
+
+[![Linkedin Badge][linkedinbadge]][linkedin] 
