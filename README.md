@@ -1,10 +1,10 @@
 <p align='center'>
-<img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/src/Sales%20Data.png' width=600 height=210 >
+<img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/src/Sales%20Data.png' width=600 height=180 >
 </p>
 
 ---
 
-<h4 align='center'> Application of ETL process on raw <a href='https://www.amazon.com/' target='_blank'>Aamazon</a> sales data along with its analysis using Jupyter Notebook and <a href='tableau.com' target='_blank'>Tableau</a> for a dashboard. </h4>
+<h4 align='center'> Application of ETL process on raw <a href='https://www.amazon.com/' target='_blank'>Aamazon</a> sales data along with its analysis using <a href='jupyter.org' target='_blank'>Jupyter</a> Notebook and <a href='tableau.com' target='_blank'>Tableau</a> for a dashboard. </h4>
 
 <p align='center'>
 <img src="https://i.ibb.co/KxfMMsP/built-with-love.png" alt="built-with-love" border="0">
@@ -20,3 +20,6 @@
   <a href="#support">Support</a> •
   <a href="#license">License</a>
 </p>
+
+
+## Overview
