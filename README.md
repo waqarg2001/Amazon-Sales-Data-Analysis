@@ -32,34 +32,34 @@ The repository directory structure is as follows:
 
 ├── LICENSE <br>
 ├── README.md          <- The top-level README for developers using this project. <br>
-| 
+| <br>
 ├── run.py             <- Python script to start ETL process. <br>
-|<br>
+| <br>
 ├── data
-│   ├── interim        <- Intermediate data that has been transformed using ETL process.<br>
-│   ├── processed      <- The final, canonical data set for analysis.<br>
-│   └── raw            <- The original, immutable data dump.<br>
-│<br>
-│<br>
-│<br>
+│   ├── interim        <- Intermediate data that has been transformed using ETL process. <br>
+│   ├── processed      <- The final, canonical data set for analysis. <br>
+│   └── raw            <- The original, immutable data dump. <br>
+│ <br>
+│ <br>
+│ <br>
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),<br>
 │                         the creator's initials, and a short `-` delimited description, e.g.<br>
-│                         `1.0-mwg-initial-data-exploration`.<br>
-│<br>
-│<br>
+│                         `1.0-mwg-initial-data-exploration`. <br>
+│ <br>
+│ <br>
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.<br>
-│                         generated with `pip freeze > requirements.txt`<br>
-|<br>
-│<br>
-├── src                <- Source code for use in this project.<br>
-│   ├── __init__.py    <- Makes src a Python module<br>
-│   │<br>
-│   ├── data           <- Scripts to perform ETL<br>
-│       ├── make_dataset.py<br>
-|       └── multiple_files_to_single_excel_file.py<br>
-|<br>
-|<br>
-├── dashboard          <- Dashboard created using transformed data.<br>
+│                         generated with `pip freeze > requirements.txt` <br>
+| <br>
+│ <br>
+├── src                <- Source code for use in this project. <br>
+│   ├── __init__.py    <- Makes src a Python module. <br>
+│   │ <br>
+│   ├── data           <- Scripts to perform ETL. <br>
+│       ├── make_dataset.py <br>
+|       └── multiple_files_to_single_excel_file.py <br>
+| <br>
+| <br>
+├── dashboard          <- Dashboard created using transformed data. <br>
 |   └── Sales Dashboard.twbx <br>
-|<br>
-├── resources          <- Resources for this readme file.<br>
+| <br>
+├── resources          <- Resources for this readme file. <br>
