@@ -86,3 +86,12 @@ The architecture of this project is straightforward which can be understood by t
 </p>  
 
 According to the diagram we first create a python script which performs ETL for us on the raw dataset. The output of this process is clean data which is then used for exploratory analysis in jupyter Notebook and to create a dashboard in Python.
+
+
+## Demo
+
+The figure below shows a snapshot of ETL process being conducted through terminal.
+
+<p align='center'>
+  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/etl%20gif.gif' width=500 height=400>
+</p>  
