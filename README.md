@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/src/Sales%20Data.png' width=548 height=310 >
+<img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/src/Sales%20Data.png' width=600 height=270 >
 </p>
 
 ---
@@ -10,4 +10,13 @@
 <img src="https://i.ibb.co/KxfMMsP/built-with-love.png" alt="built-with-love" border="0">
 <img src="https://i.ibb.co/MBDK1Pk/powered-by-coffee.png" alt="powered-by-coffee" border="0">
 <img src="https://i.ibb.co/CtGqhQH/cc-nc-sa.png" alt="cc-nc-sa" border="0">
+</p>
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#architecture">Architecture</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#support">Support</a> •
+  <a href="#license">License</a>
 </p>
