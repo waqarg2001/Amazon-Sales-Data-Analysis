@@ -26,7 +26,7 @@
 
 <p><a href='Amazon.com' target='_blank'>Amazon</a> is the world's largest eCommerce website. It was originally launched as a book-selling website and sold its first book in 1995.</p>
 
-This project involves Extract Transform Load(ETL) process on fictious raw sales data of Amazon. Exploratory Data Analysis(EDA) is done on it using Jupyter Notebook to extract key insights about the sales and later on a executive's sales dashbaord is produced using Tableau.
+This project involves Extract Transform Load(ETL) process on fictious raw sales data of Amazon. Exploratory Data Analysis(EDA) is performed on it using Jupyter Notebook to extract key insights about the sales and later on an executive's sales dashbaord is produced using Tableau.
 
 The repository directory structure is as follows:
 
@@ -104,7 +104,7 @@ The following dashboard was created on Tableau.
 
 ## Support
 
-If you have any doubts, queries or, suggestions then, please connect with me in any of the following platforms:
+If you have any doubts, queries or, suggestions then, please connect with me on any of the following platforms:
 
 [![Linkedin Badge][linkedinbadge]][linkedin] 
 [![Gmail Badge][gmailbadge]][gmail]
