@@ -32,7 +32,7 @@ The repository directory structure is as follows:
 
 ├── LICENSE <br>
 ├── README.md          <- The top-level README for developers using this project. <br>
-| <br>
+| 
 ├── run.py             <- Python script to start ETL process. <br>
 |<br>
 ├── data
