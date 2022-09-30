@@ -30,7 +30,7 @@ This project involves Extract Transform Load(ETL) process on fictious raw sales 
 
 The repository directory structure is as follows:
 
-"""
+```
 ├── LICENSE <br>
 ├── README.md          <- The top-level README for developers using this project. <br>
 | <br>
@@ -64,4 +64,5 @@ The repository directory structure is as follows:
 |   └── Sales Dashboard.twbx <br>
 | <br>
 ├── resources          <- Resources for this readme file. <br>
-"""
+```
+
