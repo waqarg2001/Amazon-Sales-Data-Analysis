@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/src/Sales%20Data.png' width=600 height=170 >
+<img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/Sales%20Data.png' width=600 height=170 >
 </p>
 
 ---
@@ -90,10 +90,15 @@ According to the diagram we first create a python script which performs ETL for 
 
 ## Demo
 
-The figure below shows a snapshot of ETL process being conducted through terminal.
+The figure below shows a snapshot of ETL process being conducted through terminal.(may take few seconds to load)
 
 <p align='center'>
   <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/etl%20gif.gif' width=400 height=300>
+</p>  
+
+The following dashboard was created on Tableau.
+<p align='center'>
+  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/Executive%20Dashboard.png' width=700 height=550>
 </p>  
 
 
