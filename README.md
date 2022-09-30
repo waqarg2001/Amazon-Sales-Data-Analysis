@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#tools">Tools Used</a> •
   <a href="#architecture">Architecture</a> •
   <a href="#demo">Demo</a> •
   <a href="#support">Support</a> •
@@ -66,3 +66,12 @@ The repository directory structure is as follows:
 ├── resources          <- Resources for this readme file. 
 ```
 
+## Tools Used
+To build this project, following tools and packages were used:
+
+- Python
+- Python packages mentioned in [requirements.txt][requirements].
+- PyCharm
+- Github
+- Jupyter Notebook
+- Tableau Desktop
