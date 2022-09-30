@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
-  <a href="#toolsused">Tools Used</a> •
+  <a href="#tools used">Tools Used</a> •
   <a href="#architecture">Architecture</a> •
   <a href="#demo">Demo</a> •
   <a href="#support">Support</a> •
