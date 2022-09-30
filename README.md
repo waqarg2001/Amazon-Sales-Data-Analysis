@@ -82,7 +82,7 @@ To build this project, following tools and packages were used:
 The architecture of this project is straightforward which can be understood by the following diagram.
 
 <p align='center'>
-  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/src/architecture.gif' height=200>
+  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/src/architecture.gif' height=300 width=400>
 </p>  
 
 According to the diagram we first create a python script which performs ETL for us on the raw dataset. The output of this process is clean data which is then used for exploratory analysis in jupyter Notebook and to create a dashboard in Python.
