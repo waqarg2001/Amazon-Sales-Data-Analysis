@@ -90,7 +90,8 @@ According to the diagram we first create a python script which performs ETL for 
 
 ## Demo
 
-The figure below shows a snapshot of ETL process being conducted through terminal.(may take few seconds to load)
+The figure below shows a snapshot of ETL process being conducted through terminal. Type run.py (raw data directory). In my case I typed run.py data/raw.
+(figure may take few seconds to load)
 
 <p align='center'>
   <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/etl%20gif.gif' width=400 height=300>
@@ -98,7 +99,7 @@ The figure below shows a snapshot of ETL process being conducted through termina
 
 The following dashboard was created on Tableau.
 <p align='center'>
-  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/Executive%20Dashboard.png' width=700 height=550>
+  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/Executive%20Dashboard.png' width=600 height=550>
 </p>  
 
 
